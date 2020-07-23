@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br> <br>
 I'm a computer science student who's just getting started with software development.
 My current skills include Java, JavaScript, HTML, and CSS and I'm learning web development and design. 
 I aspire to be a full-stack developer and hope to learn and grow as much as possible and have fun creating projects!
