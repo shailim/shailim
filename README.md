@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br> 
-I'm a computer science student who's just getting started with software development.
-My current skills include Java, JavaScript, C++, HTML, and CSS and I'm learning web development and design. 
-I aspire to be a full-stack developer and hope to learn and grow as much as possible and have fun creating projects!
+I'm a computer science student but first and foremost a problem solver.
+I'm currently learning web/app development and design and aspire to be a full-stack developer.  
+I hope to learn and grow as much as possible and have fun creating projects!
